@@ -1,0 +1,8 @@
+1. OpenJDK : https://openjdk.java.net/
+2. Oracle  : http://www.oracle.com/java/technologies/javase-downloads.html
+3. set environment : https://medium.com/programmer-zaman-now/setting-java-path-di-windows-4da2c65d8298
+4. IDE
+Intelli JDEA Ultimate / Community : https://www.jetbrains.com/idea/
+Eclipse : https://www.eclipse.org/downloads/packages/
+NetBeans : https://netbeans.apache.org/
+JDeveloper : https://www.oracle.com/application-development/technologies/jdeveloper.html
