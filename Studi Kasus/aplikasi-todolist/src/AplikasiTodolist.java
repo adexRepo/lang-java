@@ -134,7 +134,6 @@ public class AplikasiTodolist {
                 System.out.println("Todo ke: " + number + " tidak ditemukan dihapus");
             }
         }
-        
     }
 
           // ^^^^^^^^^^^^^^^^^^^^ TESTING METHOD ^^^^^^^^^^^^^^^^^^^^ //
