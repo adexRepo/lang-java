@@ -1,4 +1,4 @@
-package StringClass;
+package String;
 public class StringBufferAndBuilder {
     /* -------------------- STRING BUFFER AND STRING BUILDER -------------------- */
 

@@ -1,4 +1,4 @@
-package NumberClass;
+package Number;
 
 public class NumberClass {
     /* ------------------------------ Number Class ------------------------------ */
