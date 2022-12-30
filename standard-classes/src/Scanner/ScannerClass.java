@@ -1,4 +1,4 @@
-package ScannerClass;
+package Scanner;
 
 import java.io.File;
 import java.io.FileNotFoundException;
