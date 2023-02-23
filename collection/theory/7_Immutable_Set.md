@@ -10,3 +10,5 @@ Cara pembuatan immutable Set di Java mirip dengan pembuatan immutable di List
 - Collections.unmodifiableSet(Set) -> mengubah mutable Set menjadi immutable
 - Set.of(e...)  -> membuat immutable Set dari element-element
 
+# Example
+src\learn\lang\collection\application\ImmutableSet.java

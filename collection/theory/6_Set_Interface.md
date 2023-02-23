@@ -23,3 +23,6 @@ kalo butuh terurut pakai linkedHashSet aja.
 # EnumSet
 EnumSet adalah Set yang elemen datanya harus Enum
 Karena data Enum itu unik, sehingga sangat cocok menggunakan Set dibandingkan List.
+
+# Example
+src\learn\lang\collection\application\SetApp.java
